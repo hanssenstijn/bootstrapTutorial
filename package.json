@@ -1,0 +1,22 @@
+{
+  "name": "bootstraptutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hanssenstijn/bootstrapTutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hanssenstijn/bootstrapTutorial/issues"
+  },
+  "homepage": "https://github.com/hanssenstijn/bootstrapTutorial#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.0"
+  }
+}
